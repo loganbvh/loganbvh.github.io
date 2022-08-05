@@ -38,13 +38,13 @@ Skills
 
 Publications
 ------------
-  <ol>{% for post in site.publications %}
+  <ol reversed>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
 Talks
 -----
-  <ol>{% for post in site.talks %}
+  <ol reversed>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ol>
   
