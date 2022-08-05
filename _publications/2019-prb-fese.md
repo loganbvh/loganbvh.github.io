@@ -1,0 +1,16 @@
+---
+title: "Imaging anisotropic vortex dynamics in FeSe"
+collection: publications
+permalink: /publication/2019-prb-fese
+excerpt: 'This paper describes measurements and modeling of anisotropic vortex pinning in the iron-based superconductor FeSe.'
+date: 2019-07-22
+venue: 'Physical Review B'
+paperurl: 'https://doi.org/10.1103/PhysRevB.100.024514'
+citation: 'Irene P. Zhang, Johanna C. Palmstrom, Hilary Noad, Logan Bishop-Van Horn, Yusuke Iguchi, Zheng Cui, Eli Mueller, John R. Kirtley, Ian R. Fisher, and Kathryn A. Moler, &quot;Imaging anisotropic vortex dynamics in FeSe&quot;, Phys. Rev. B <b>100</b>, 024514 (2019).'
+---
+
+This paper describes measurements and modeling of anisotropic vortex pinning in the iron-based superconductor FeSe. I performed many of the scanning SQUID measurements in the early stages of this project, in which we observed disctinctive features (which we refer to as "butterflies") in images of the magnetic response of the material (see image below). We identifies these butterflies as being due to vortex motion, with vortices preferentially moving along twin domain boundaries rather than across them. My colleague Irene then performed numerical simulations using a toy model of the vortex pinning potential to extract the anisotropic "spring constants" for the vortices.
+
+!["Butterflies" in FeSe due to anisotropic vortex motion](../images/butterflies1.png)
+
+Open access links: [Publisher](https://link.aps.org/accepted/10.1103/PhysRevB.100.024514), [arXiv](https://arxiv.org/abs/1903.11542)
