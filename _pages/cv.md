@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+=========
+* B.A. in Physics & Mathematics, Clark University, 2016
+* M.S. in Physics, Stanford University, 2019
+* Ph.D in Physics, Stanford University, 2024 (expected)
 
 Work experience
-======
+===============
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -37,16 +37,16 @@ Skills
 * Skill 3
 
 Publications
-======
-  <ul>{% for post in site.publications %}
+============
+  <li>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</li>
   
 Talks
-======
-  <ul>{% for post in site.talks %}
+=====
+  <li>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</li>
   
 Teaching
 ======
@@ -55,5 +55,5 @@ Teaching
   {% endfor %}</ul>
   
 Service and leadership
-======
+======================
 * Currently signed in to 43 different slack teams

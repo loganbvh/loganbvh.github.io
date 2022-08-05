@@ -1,5 +1,12 @@
 # main links links
 main:
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Projects"
+    url: /Projects/
+
   - title: "Publications"
     url: /publications/
 
@@ -8,15 +15,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "Projects"
-    url: /Projects/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
