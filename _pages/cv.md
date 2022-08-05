@@ -10,13 +10,13 @@ redirect_from:
 {% include base_path %}
 
 Education
-=========
+---------
 * B.A. in Physics & Mathematics, Clark University, 2016
 * M.S. in Physics, Stanford University, 2019
 * Ph.D in Physics, Stanford University, 2024 (expected)
 
 Work experience
-===============
+---------------
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -28,7 +28,7 @@ Work experience
   * Supervisor: Professor Hub
   
 Skills
-======
+------
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -37,23 +37,23 @@ Skills
 * Skill 3
 
 Publications
-============
+------------
   <li>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</li>
   
 Talks
-=====
+-----
   <li>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</li>
   
 Teaching
-======
+--------
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======================
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
