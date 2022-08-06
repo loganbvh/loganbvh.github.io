@@ -3,7 +3,7 @@ title: "Simulating the static magnetic response of thin film superconducting dev
 collection: talks
 type: "Talk"
 permalink: /talks/2022-03-aps-march
-venue: "APS March Meeting 2012"
+venue: "APS March Meeting 2022"
 date: 2022-03-14
 location: "Chicago, Illinois (presented remotely)"
 use_math: true
