@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-03-aps-march
 venue: "APS March Meeting 2017"
-date: 2017-03-01
+date: 2017-03-14
 location: "New Orleans, Louisiana"
 use_math: true
 ---
