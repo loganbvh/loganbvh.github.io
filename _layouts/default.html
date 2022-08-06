@@ -1,7 +1,9 @@
 ---
 layout: compress
 ---
-
+{% if page.use_math %}
+{% include mathjax_support.html %}
+{% endif %}
 {% include base_path %}
 
 <!doctype html>
