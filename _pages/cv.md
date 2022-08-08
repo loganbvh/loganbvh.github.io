@@ -17,8 +17,8 @@ Education
 
 Experience
 ----------
-<details open>
-  <summary>January 2021 - present: Research Assistant, Stanford University</summary>
+<details open markdown="1">
+  <summary markdown="span">January 2021 - present: Research Assistant, Stanford University</summary>
 
   - Department of Physics, Stanford University, Stanford, CA
   - Measurements and modeling of the local magnetic response and proximity effects in two-dimensional superconductors.
@@ -26,32 +26,32 @@ Experience
 
 </details>
 
-<details open>
-  <summary>January 2019 - January 2021: Research Associate, Quantum Circuits, Inc.</summary>
+<details open markdown="1">
+  <summary markdown="span">January 2019 - January 2021: Research Associate, Quantum Circuits, Inc.</summary>
 
   - Quantum Circuits, Inc. (QCI), New Haven, CT
   - Characterization and modeling of superconducting devices for quantum information processing using qubits encoded in microwave cavities.
   - Supervisors: Harvey Moseley, Rob Schoelkopf
 </details>
 
-<details open>
-  <summary>September 2017 - December 2018: Research Assistant, Stanford University</summary>
+<details open markdown="1">
+  <summary markdown="span">September 2017 - December 2018: Research Assistant, Stanford University</summary>
 
   - Department of Physics, Stanford University, Stanford, CA
   - Construction and optimization of a cryogen-free variable temperature scanning SQUID microscope; implemented digital flux feedback for SQUID readout using FPGAs.
   - Advisor: Kam Moler
 </details>
 
-<details open>
-  <summary>Summer 2016: Undergraduate Research Assistant, Cornell University</summary>
+<details open markdown="1">
+  <summary markdown="span">Summer 2016: Undergraduate Research Assistant, Cornell University</summary>
 
   - Cornell Center for Materials Research, Cornell University, Ithaca, NY
   - RF measurement and micromagnetic modeling of magnetic heterostructures for spintronics.
   - Advisor: Dan Ralph
 </details>
 
-<details open>
-  <summary>June 2014 - December 2016: Undergraduate Research Assistant, Clark University</summary>
+<details open markdown="1">
+  <summary markdown="span">June 2014 - December 2016: Undergraduate Research Assistant, Clark University</summary>
 
   - Department of Physics, Clark University, Worcester, MA
   - Measurements of the RF penetration depth in unconventional superconductors at high magnetic fields.
