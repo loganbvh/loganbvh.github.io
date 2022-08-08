@@ -11,36 +11,51 @@ redirect_from:
 
 Education
 ---------
-* B.A. in Physics & Mathematics, Clark University, 2016
-* M.S. in Physics, Stanford University, 2019
 * Ph.D in Physics, Stanford University, 2024 (expected)
+* M.S. in Physics, Stanford University, 2019
+* B.A. in Physics & Mathematics, Clark University, 2016
 
-<!-- Experience
+Experience
 ----------
-* January 2021 - present: Graduate Research Assistant
-  * Department of Physics, Stanford University, Stanford, CA
-  * Duties included: Tagging issues
-  * Advisor: Kam Moler
+<details>
+<summary>January 2021 - present: Research Assistant, Stanford University</summary>
 
-* January 2019 - January 2021: Research Associate
+  * Department of Physics, Stanford University, Stanford, CA
+  * Measurements and modeling of the local magnetic response and proximity effects in two-dimensional superconductors.
+  * Advisor: Kam Moler
+</details>
+
+<details>
+<summary>January 2019 - January 2021: Research Associate, Quantum Circuits, Inc.</summary>
+
   * Quantum Circuits, Inc. (QCI), New Haven, CT
-  * Duties included: Tagging issues
+  * Characterization and modeling of superconducting devices for quantum information processing using qubits encoded in microwave cavities.
   * Supervisors: Harvey Moseley, Rob Schoelkopf
+</details>
 
-* September 2017 - December 2018: Graduate Research Assistant
+<details>
+<summary>September 2017 - December 2018: Research Assistant, Stanford University</summary>
+
   * Department of Physics, Stanford University, Stanford, CA
-  * Duties included: Tagging issues
+  * Construction and optimization of a cryogen-free variable temperature scanning SQUID microscope; implemented digital flux feedback for SQUID readout using FPGAs.
   * Advisor: Kam Moler
+</details>
 
-* Summer 2016: Undergraduate Research Assistant
+<details>
+<summary>Summer 2016: Undergraduate Research Assistant, Cornell University</summary>
+
   * Cornell Center for Materials Research, Cornell University, Ithaca, NY
-  * Duties included: Tagging issues
+  * RF measurement and micromagnetic modeling of magnetic heterostructures for spintronics.
   * Advisor: Dan Ralph
+</details>
 
-* June 2014 - December 2016: Undergraduate Research Assistant
+<details>
+<summary>June 2014 - December 2016: Undergraduate Research Assistant, Clark University</summary>
+
   * Department of Physics, Clark University, Worcester, MA
   * Measurements of the RF penetration depth in unconventional superconductors at high magnetic fields.
-  * Advisor: Charles Agosta -->
+  * Advisor: Charles Agosta
+</details>
 
 Skills
 ------
