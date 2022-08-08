@@ -15,18 +15,32 @@ Education
 * M.S. in Physics, Stanford University, 2019
 * Ph.D in Physics, Stanford University, 2024 (expected)
 
-<!-- Work experience
----------------
-* Summer 2015: Research Assistant
-  * Github University
+<!-- Experience
+----------
+* January 2021 - present: Graduate Research Assistant
+  * Department of Physics, Stanford University, Stanford, CA
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Advisor: Kam Moler
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-   -->
+* January 2019 - January 2021: Research Associate
+  * Quantum Circuits, Inc. (QCI), New Haven, CT
+  * Duties included: Tagging issues
+  * Supervisors: Harvey Moseley, Rob Schoelkopf
+
+* September 2017 - December 2018: Graduate Research Assistant
+  * Department of Physics, Stanford University, Stanford, CA
+  * Duties included: Tagging issues
+  * Advisor: Kam Moler
+
+* Summer 2016: Undergraduate Research Assistant
+  * Cornell Center for Materials Research, Cornell University, Ithaca, NY
+  * Duties included: Tagging issues
+  * Advisor: Dan Ralph
+
+* June 2014 - December 2016: Undergraduate Research Assistant
+  * Department of Physics, Clark University, Worcester, MA
+  * Measurements of the RF penetration depth in unconventional superconductors at high magnetic fields.
+  * Advisor: Charles Agosta -->
 
 Skills
 ------
@@ -35,11 +49,13 @@ Skills
   * Electromagnetic modeling of superconducting devices
   * Operation of cryogen-free dilution refrigerators
   * Instrument control and measurement automation
+
 * Quantum computing
  * Characterization and calibration of superconducting qubits and cavities
  * Modeling dynamics of open quantum systems (QuTiP)
  * Dynamical decoupling noise spectroscopy
  * RF electronics for quantum control
+
 * Scientific programming
   * Scientific Python (numpy, scipy, matplotlib, pandas, JAX, ...)
   * MATLAB
