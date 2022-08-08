@@ -17,66 +17,76 @@ Education
 
 Experience
 ----------
-<details open markdown="1">
+<!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-1024896918 -->
+
+<details markdown="1">
   <summary markdown="span">January 2021 - present: Research Assistant, Stanford University</summary>
 
-  - Department of Physics, Stanford University, Stanford, CA
-  - Measurements and modeling of the local magnetic response and proximity effects in two-dimensional superconductors.
-  - Advisor: Kam Moler
-
+  * Department of Physics, Stanford University, Stanford, CA
+  * Measurements and modeling of the local magnetic response and proximity effects in two-dimensional superconductors.
+  * Advisor: Kam Moler
 </details>
 
-<details open markdown="1">
+<details markdown="1">
   <summary markdown="span">January 2019 - January 2021: Research Associate, Quantum Circuits, Inc.</summary>
 
-  - Quantum Circuits, Inc. (QCI), New Haven, CT
-  - Characterization and modeling of superconducting devices for quantum information processing using qubits encoded in microwave cavities.
-  - Supervisors: Harvey Moseley, Rob Schoelkopf
+  * Quantum Circuits, Inc. (QCI), New Haven, CT
+  * Characterization and modeling of superconducting devices for quantum information processing using qubits encoded in microwave cavities.
+  * Supervisors: Harvey Moseley, Rob Schoelkopf
 </details>
 
-<details open markdown="1">
+<details markdown="1">
   <summary markdown="span">September 2017 - December 2018: Research Assistant, Stanford University</summary>
 
-  - Department of Physics, Stanford University, Stanford, CA
-  - Construction and optimization of a cryogen-free variable temperature scanning SQUID microscope; implemented digital flux feedback for SQUID readout using FPGAs.
-  - Advisor: Kam Moler
+  * Department of Physics, Stanford University, Stanford, CA
+  * Construction and optimization of a cryogen-free variable temperature scanning SQUID microscope; implemented digital flux feedback for SQUID readout using FPGAs.
+  * Advisor: Kam Moler
 </details>
 
-<details open markdown="1">
+<details markdown="1">
   <summary markdown="span">Summer 2016: Undergraduate Research Assistant, Cornell University</summary>
 
-  - Cornell Center for Materials Research, Cornell University, Ithaca, NY
-  - RF measurement and micromagnetic modeling of magnetic heterostructures for spintronics.
-  - Advisor: Dan Ralph
+  * Cornell Center for Materials Research, Cornell University, Ithaca, NY
+  * RF measurement and micromagnetic modeling of magnetic heterostructures for spintronics.
+  * Advisor: Dan Ralph
 </details>
 
-<details open markdown="1">
+<details markdown="1">
   <summary markdown="span">June 2014 - December 2016: Undergraduate Research Assistant, Clark University</summary>
 
-  - Department of Physics, Clark University, Worcester, MA
-  - Measurements of the RF penetration depth in unconventional superconductors at high magnetic fields.
-  - Advisor: Charles Agosta
+  * Department of Physics, Clark University, Worcester, MA
+  * Measurements of the RF penetration depth in unconventional superconductors at high magnetic fields.
+  * Advisor: Charles Agosta
 </details>
 
 Skills
 ------
-* Low temperature and condensed matter physics
+<details markdown="1">
+  <summary markdown="span">Low temperature and condensed matter physics</summary>
+
   * Cryogenic scanning probe microscopy of quantum materials and devices
   * Electromagnetic modeling of superconducting devices
   * Operation of cryogen-free dilution refrigerators
   * Instrument control and measurement automation
+</details>
 
-* Quantum computing
+<details markdown="1">
+  <summary markdown="span">Quantum computing</summary>
+
   * Characterization and calibration of superconducting qubits and cavities
   * Modeling dynamics of open quantum systems (QuTiP)
   * Dynamical decoupling noise spectroscopy
   * RF electronics for quantum control
+</details>
 
-* Scientific programming
+<details markdown="1">
+  <summary markdown="span">Scientific programming</summary>
+
   * Scientific Python (numpy, scipy, matplotlib, pandas, JAX, ...)
   * MATLAB
   * Git and GitHub
   * Interfacing with HPC (slurm)
+</details>
 
 Publications
 ------------
