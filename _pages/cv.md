@@ -60,7 +60,7 @@ Experience
 Skills
 ------
 * Low temperature and condensed matter physics
-  * Cryogenic scanning probe microscopy
+  * Cryogenic scanning probe microscopy of quantum materials and devices
   * Electromagnetic modeling of superconducting devices
   * Operation of cryogen-free dilution refrigerators
   * Instrument control and measurement automation
