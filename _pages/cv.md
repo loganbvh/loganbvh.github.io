@@ -73,7 +73,7 @@ Skills
 <details markdown="1">
   <summary markdown="span">Quantum computing</summary>
 
-  * Characterization and calibration of superconducting qubits and cavities
+  * Automating the characterization and calibration of superconducting qubits and cavities
   * Modeling dynamics of open quantum systems (QuTiP)
   * Dynamical decoupling noise spectroscopy
   * RF electronics for quantum control
