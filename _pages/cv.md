@@ -51,10 +51,10 @@ Skills
   * Instrument control and measurement automation
 
 * Quantum computing
- * Characterization and calibration of superconducting qubits and cavities
- * Modeling dynamics of open quantum systems (QuTiP)
- * Dynamical decoupling noise spectroscopy
- * RF electronics for quantum control
+  * Characterization and calibration of superconducting qubits and cavities
+  * Modeling dynamics of open quantum systems (QuTiP)
+  * Dynamical decoupling noise spectroscopy
+  * RF electronics for quantum control
 
 * Scientific programming
   * Scientific Python (numpy, scipy, matplotlib, pandas, JAX, ...)
