@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student in the [Moler Group](https://web.stanford.edu/group/moler) at Stanford University, working on scanning magnetic microscopy of quantum materials and devices using superconducting sensors.
+I'm a grad student in the [Moler Group](https://web.stanford.edu/group/moler) at Stanford University, working on scanning magnetic microscopy of quantum materials and devices using superconducting sensors.
 
-In January 2019, after completing my M.S. in Physics at Stanford, I paused my PhD studies and joined [Quantum Circuits, Inc. (QCI)](https://quantumcircuits.com/), a quantum computing startup in New Haven, CT. At QCI, I worked on design, characterization, and modeling of superconducting circuits for quantum information processing. I resumed my PhD work in the Moler Group at Stanford in January 2021.
+My interests and [experiences](/cv/) include: [scientific computing](https://github.com/loganbvh/), quantum sensors and [quantum computing](https://sequencing.readthedocs.io/), and [experimental low temperature physics](/publications/).
 
-Prior to graduate school I attended Clark University, where I studied Physics and Mathematics and spent three years researching the properties of organic superconductors in high magnetic fields. I also spent a summer at the Cornell University Center for Materials Research simulating and measuring spin-transfer torques in magnetic bilayers.
+In my free time I enjoy exploring with my dog, baking, and backpacking.
 
-I am interested in applications of quantum sensors and quantum materials to tackle 21st century computation and energy challenges.
+![Sequoia National Park, July 2022](../images/sequoia2022.jpg)
+*Backpacking in Sequoia National Park, July 2022.*
