@@ -76,7 +76,7 @@ Skills
   * Automating the characterization and calibration of superconducting qubits and cavities
   * Modeling dynamics of open quantum systems (QuTiP)
   * Dynamical decoupling noise spectroscopy
-  * RF electronics for quantum control
+  * Software and RF electronics for quantum control
 </details>
 
 <details markdown="1">
