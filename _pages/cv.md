@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Available in PDF format [here](../files/cv.pdf).
+Available as a PDF [here](../files/cv.pdf).
 
 -----------------------
 
