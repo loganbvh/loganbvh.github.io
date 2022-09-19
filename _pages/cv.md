@@ -78,7 +78,7 @@ Skills
   <summary markdown="span">Quantum computing</summary>
 
   * Automating the characterization and calibration of superconducting qubits and cavities
-  * Modeling dynamics of open quantum systems (QuTiP)
+  * Modeling dynamics of open quantum systems (QuTiP, [SeQuencing](https://sequencing.readthedocs.io/en/latest/))
   * Dynamical decoupling noise spectroscopy
   * Software and RF electronics for quantum control
 </details>
@@ -88,8 +88,9 @@ Skills
 
   * Scientific Python (numpy, scipy, matplotlib, pandas, JAX, ...)
   * MATLAB
+  * Finite element methods
   * Git and GitHub
-  * Interfacing with HPC (slurm)
+  * Interfacing with HPC (Slurm, Bash)
 </details>
 
 Publications
