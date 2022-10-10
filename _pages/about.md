@@ -15,7 +15,7 @@ My interests and [experiences](/cv/) include [scientific computing](https://gith
 <img src="../images/sequoia2022.jpg" alt="Backpacking in Sequoia National Park, July 2022." width="60%">
 <p><em>Backpacking in Sequoia National Park, July 2022.</em></p>
 
-A major theme of my research career so far has been turning math into efficient, intuitive code, and then into actionable insights about physical systems. I aim to identify the simplest model that contains the essential physics of a system, identify and implement a computational strategy to solve the model, and then iterate quickly, adding complexity as needed.
+A major theme of my research career so far has been turning theory into efficient, intuitive code, and then into actionable insights about physical systems. I aim to identify the simplest model that contains the essential physics of a system, identify and implement a computational strategy to solve the model, and then iterate quickly, adding complexity as needed.
 
 Examples of this pattern include:
 
