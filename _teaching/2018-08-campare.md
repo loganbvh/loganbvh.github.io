@@ -1,5 +1,5 @@
 ---
-title: "CAMPARE Graduate Student Mentor"
+title: "CAMPARE Graduate Student Mentor (Summer 2018)"
 collection: teaching
 type: "Mentorship"
 permalink: /teaching/2022-08-campare
