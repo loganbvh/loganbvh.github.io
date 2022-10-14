@@ -46,7 +46,7 @@ Experience <span style="font-size: .75rem"><em>(Click to expand)</em></span>
 </details>
 
 <details markdown="1">
-  <summary markdown="span">September 2017 - December 2018: Research Assistant, Stanford University</summary>
+  <summary markdown="span">September 2017 - January 2019: Research Assistant, Stanford University</summary>
 
   * Department of Physics, Stanford University, Stanford, CA
   * Construction and optimization of a cryogen-free variable temperature scanning SQUID microscope; implemented digital flux feedback for SQUID readout using FPGAs.
