@@ -100,8 +100,8 @@ Skills <span style="font-size: .75rem"><em>(Click to expand)</em></span>
   * Scientific Python (numpy, scipy, matplotlib, pandas, JAX, ...)
   * MATLAB
   * Finite element methods
-  * Git and GitHub
-  * Interfacing with HPC (Slurm, Bash)
+  * Bash, Git, and GitHub
+  * Interfacing with HPC (Slurm, Ray, MPI)
 </details>
 
 Publications
