@@ -15,7 +15,7 @@ Available as a PDF [here](../files/cv.pdf).
 
 Education
 ---------
-* Ph.D in Physics, Stanford University, expected 2023
+* Ph.D in Physics, Stanford University, in progress
 * M.S. in Physics, Stanford University, 2019
 * B.A. in Physics & Mathematics, Clark University, 2016
 
