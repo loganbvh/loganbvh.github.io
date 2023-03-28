@@ -10,17 +10,15 @@ redirect_from:
 
 I'm a grad student in the [Moler Group](https://web.stanford.edu/group/moler) at Stanford University, working on scanning magnetic microscopy of quantum materials and devices using superconducting sensors.
 
-My interests and [experiences](/cv/) include [scientific computing](https://github.com/loganbvh/), quantum sensors and [quantum computing](https://sequencing.readthedocs.io/), and [experimental low temperature physics](/publications/). In my free time, I enjoy baking and backpacking.
+My interests and [experiences](/cv/) include [scientific computing](https://github.com/loganbvh/), quantum sensors and [quantum computing](https://sequencing.readthedocs.io/), and [experimental low temperature physics](/publications/).
 
 <img src="../images/sequoia2022.jpg" alt="Backpacking in Sequoia National Park, July 2022." width="60%">
 <p><em>Backpacking in Sequoia National Park, July 2022.</em></p>
 
-A major theme of my research career so far has been turning theory into efficient, intuitive code, and then into actionable insights about physical systems. I aim to identify the simplest model that contains the essential physics of a system, identify and implement a computational strategy to solve the model, and then iterate quickly, adding complexity as needed.
+I started my PhD in the of Kam Moler at Stanford in Sept. 2017. In Jan. 2019, after 1.5 years at Stanford, I paused my PhD program and took a job as a Research Associate at the superconducting quantum computing startup [Quantum Circuits, Inc.](https://quantumcircuits.com/) (QCI), which was spun out of the Applied Physics labs at Yale.
 
-Examples of this pattern include:
+As an early employee at QCI, I worked on calibration and characterization of transmon qubits and high-Q cavities, automating the tuneup of these devices, and [numerical modeling](https://sequencing.readthedocs.io/en/latest/) to diagnose and optimize their performance. In Jan. 2021, after 2 years at QCI, I returned to the Moler group at Stanford to resume my PhD.
 
-- [SeQuencing](https://sequencing.readthedocs.io/), an open-source Python package for simulating realistic quantum control sequences, used for optimizing and benchmarking gates on bosonic qubits ([Quantum Circuits, Inc.](https://quantumcircuits.com/), 2020 [[repo](https://github.com/sequencing-dev/sequencing)]).
-- [pyTDGL](https://py-tdgl.readthedocs.io/), an open-source Python package for time-dependent Ginzburg-Landau (TDGL) modeling of nonlinearities and vortex dynamics in 2D superconductors (Stanford University, [[paper](https://arxiv.org/abs/2302.03812), [repo](https://github.com/loganbvh/py-tdgl)]).
-- [SuperScreen](https://superscreen.readthedocs.io/), an open-source Python package that solves the London equation for thin film superconducting devices of arbitrary geometry (Stanford University, 2022 [[paper](../_publications/2022-07-27-compphys.md), [repo](https://github.com/loganbvh/superscreen)]).
-- Using large-scale nonlinear programming (NLP) to model the local magnetic properties of disordered Josephson junction arrays (Stanford University, 2022 [[paper](../_publications/2022-08-30-prb-nb-islands.md)]).
-- GPU-accelerated micromagnetic simulations to understand nonidealities in spin transfer torque-driven ferromagnetic resonance (STFMR) measurements of spintronic devices (Cornell University Center for Materials Research, 2016 [[report](../files/ccmr-final-lbvh.pdf), [slides](../files/ccmr-pres-lbvh.pdf)]).
+My time in the quantum computing industry/startup space provided not only the opportunity to learn the nuances of circuit QED, but also valuable perspective on the scaling and materials challenges associated with building high coherence superconducting quantum systems.
+
+At Stanford my research focus has been on understanding the response of thin film superconductors to locally applied magnetic fields, including local studies of vortex dynamics at the level of single vortices. To this end, I have developed open source software tools that enable quantitative interpretation of measurements of [screening](https://superscreen.readthedocs.io/en/latest/index.html) and [nonlinear and dissipative](https://py-tdgl.readthedocs.io/en/latest/) effects in thin film superconducting devices at the micron and sub-micron scale.
