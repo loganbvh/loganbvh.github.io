@@ -7,8 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+Articles are in reverse chronological order (most recent first).
+
 {% if author.googlescholar %}
-  You can also find my articles on <a href="{{author.googlescholar}}">Google Scholar</a>
+  You can also find my work on <a href="{{author.googlescholar}}">Google Scholar</a>
   and <a href="https://arxiv.org/search/?query=Bishop-Van+Horn&searchtype=author">arXiv</a>.
 
   ---------------------------------

@@ -15,9 +15,9 @@ Available as a PDF [here](../files/cv.pdf).
 
 Education
 ---------
-* Ph.D in Physics, Stanford University, in progress
-* M.S. in Physics, Stanford University, 2019
-* B.A. in Physics & Mathematics, Clark University, 2016
+* Ph.D in Physics, Stanford University, expected Spring 2024
+* M.S. in Physics, Stanford University, Jan. 2019
+* B.A. in Physics & Mathematics, Clark University, Dec. 2016
 
 Experience <span style="font-size: .75rem"><em>(Click to expand)</em></span>
 ----------
