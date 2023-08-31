@@ -31,7 +31,8 @@ Experience <span style="font-size: .75rem"><em>(Click to expand)</em></span>
   * Constructed and optimized a cryogen-free variable temperature scanning SQUID microscope.
   * Implemented digital flux feedback for SQUID readout using FPGAs.
   * Publications from this period:
-    - pyTDGL: Time-dependent Ginzburg-Landau in Python, [arXiv:2302.03812 (2023)](../_publications/2023-02-08-tdgl.md).
+    - Vortex dynamics induced by scanning SQUID susceptometry, [Physical Review B (2023)](../_publications/2023-06-15-vortex-dynamics.md).
+    - pyTDGL: Time-dependent Ginzburg-Landau in Python, [Computer Physics Communications (2023)](../_publications/2023-05-29-tdgl.md), Python package: [https://py-tdgl.readthedocs.io/](https://py-tdgl.readthedocs.io/en/latest/).
     - Local imaging of diamagnetism in proximity-coupled niobium nanoisland arrays on gold thin films, [Physical Review B (2022)](../_publications/2022-08-30-prb-nb-islands.md) (*Editors' suggestion*).
     - SuperScreen: An open-source package for simulating the magnetic response of two-dimensional superconducting devices, [Computer Physics Communications (2022)](../_publications/2022-07-27-compphys.md). Python package: [https://superscreen.readthedocs.io/](https://superscreen.readthedocs.io/)
     - Cryogen-free variable temperature scanning SQUID microscope, [Review of Scientific Instruments (2019)](../_publications/2019-06-25-rsi.md).
