@@ -19,6 +19,6 @@ I started my PhD in Kam Moler's group at Stanford in Sept. 2017. In Jan. 2019, a
 
 As an early employee at QCI, I worked on calibration and characterization of transmon qubits and high-Q cavities, automating the tuneup of these devices, and [numerical modeling](https://sequencing.readthedocs.io/en/latest/) to diagnose and optimize their performance. In Jan. 2021, after 2 years at QCI, I returned to the Moler group at Stanford to resume my PhD.
 
-My time in the quantum computing industry/startup space provided not only the opportunity to learn the nuances of circuit QED, but also gain valuable perspective on the scaling and materials challenges associated with building high coherence superconducting quantum systems.
+My time in the quantum computing industry/startup space provided not only the opportunity to learn the nuances of circuit QED, but also to gain valuable perspective on the scaling and materials challenges associated with building high coherence superconducting quantum systems.
 
 At Stanford my research focus has been on understanding the response of thin film superconductors to locally applied magnetic fields, including studies of vortex dynamics at the level of single vortices. To this end, I have developed open source software tools that enable quantitative interpretation of measurements of [screening](https://superscreen.readthedocs.io/en/latest/index.html) and [nonlinear and dissipative](https://py-tdgl.readthedocs.io/en/latest/) effects in thin film superconducting devices at the micron and sub-micron scale.
