@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Available as a PDF [here](../files/cv.pdf).
+Available as a PDF [here](../files/lbvhcv.pdf).
 
 -----------------------
 
 Education
 ---------
-* Ph.D in Physics, Stanford University, expected Spring 2024
+* Ph.D in Physics, Stanford University, June 2024
 * M.S. in Physics, Stanford University, Jan. 2019
 * B.A. in Physics & Mathematics, Clark University, Dec. 2016
 
@@ -24,7 +24,13 @@ Experience <span style="font-size: .75rem"><em>(Click to expand)</em></span>
 <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-1024896918 -->
 
 <details markdown="1">
-  <summary markdown="span">September 2017 - January 2019, January 2021 - present: **Research Assistant, Stanford University**</summary>
+  <summary markdown="span">August 2024 - present: **Technical Staff, MIT Lincoln Laboratory**</summary>
+
+  * Technical Staff in Group 89 working on superconducting qubits. Email: Logan.Bishop-VanHorn@ll.mit.edu.
+</details>
+
+<details markdown="1">
+  <summary markdown="span">September 2017 - January 2019, January 2021 - June 2024: **Graduate Student, Stanford University**</summary>
 
   * Department of Physics, Stanford University, Stanford, CA. Advisor: Kam Moler.
   * Developed open-source tools for London-Maxwell [[superscreen.rtfd.io](https://superscreen.readthedocs.io/en/latest/index.html)] and time-dependent Ginzburg-Landau (TDGL) [[py-tdgl.rtfd.io](https://py-tdgl.readthedocs.io/en/latest/)] modeling of two-dimensional superconductors with arbitrary geometry.
@@ -88,9 +94,9 @@ Skills <span style="font-size: .75rem"><em>(Click to expand)</em></span>
 <details markdown="1">
   <summary markdown="span">Scientific programming</summary>
 
-  * Scientific Python (numpy, scipy, matplotlib, pandas, JAX, ...)
+  * Scientific Python (numpy, scipy, matplotlib, pandas, JAX, CuPy, ...)
   * MATLAB
-  * Finite element methods
+  * HFSS, Sonnet
   * Bash, Git, and GitHub
   * Interfacing with HPC (Slurm, Ray, MPI)
 </details>

@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Logan Bishop-Van Horn"
 title_separator          : "-"
 name                     : &name "Logan Bishop-Van Horn"
-description              : &description "Physics PhD student @ Stanford"
+description              : &description "Technical staff scientist @ MIT Lincoln Laboratory"
 url                      : https://loganbvh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "loganbvh.github.io"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Logan Bishop-Van Horn"
   avatar           : "lbvh2019-square.jpg"
-  bio              : "Physics PhD student @ Stanford"
-  location         : "Palo Alto, CA"
+  bio              : "Technical staff scientist @ MIT Lincoln Laboratory"
+  location         : "Boston area"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=pVLLE_sAAAAJ&hl=en"
-  email            : "lbvh@stanford.edu"
+  email            : "logan.bvh@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
