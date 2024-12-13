@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Technical Staff Scientist working on superconducting devices at MIT Lincoln Laboratory. I joined MITLL in August 2024 after completing my PhD in Physics at Stanford University in the group of Kam Moler. At Stanford I built software tools to model screening and vortex dynamics in thin film superconductors, and studied tunable superconductor-semiconductor hybrid devices at mK temperatures using scanning SQUID microscopy. I was also an early employee at Quantum Circuits, Inc. (QCI), where I worked for two years on calibration, characterization, and numerical modeling of superconducting qubits and cavities.
+I am a Technical Staff Scientist at MIT Lincoln Laboratory working on superconducting devices. I joined MITLL in August 2024 after completing my PhD in Physics at Stanford University in the group of Kam Moler. At Stanford I built software tools to model screening and vortex dynamics in thin film superconductors. I also studied gate-tunable superconductor-semiconductor hybrid devices at mK temperatures using scanning SQUID microscopy. From 2019-2021, I was an early employee at Quantum Circuits, Inc. (QCI), where I worked on calibration, characterization, and numerical modeling of superconducting qubits and cavities.
 
 My research interests lie at the intersection of mesoscopic physics, quantum materials, and quantum technology: using superconducting circuits to probe fundamental properties of materials and understanding aspects of materials physics that limit qubit coherence.
 

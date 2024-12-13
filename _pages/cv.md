@@ -26,7 +26,7 @@ Experience <span style="font-size: .75rem"><em>(Click to expand)</em></span>
 <details markdown="1">
   <summary markdown="span">August 2024 - present: **Technical Staff, MIT Lincoln Laboratory**</summary>
 
-  * Technical Staff in Group 89 working on superconducting qubits. Email: Logan.Bishop-VanHorn@ll.mit.edu.
+  * Technical Staff in Group 89 working on superconducting devices. Email: Logan.Bishop-VanHorn@ll.mit.edu.
 </details>
 
 <details markdown="1">
