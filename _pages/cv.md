@@ -96,7 +96,7 @@ Skills <span style="font-size: .75rem"><em>(Click to expand)</em></span>
 
   * Scientific Python (numpy, scipy, matplotlib, pandas, JAX, CuPy, ...)
   * MATLAB
-  * HFSS, Sonnet
+  * HFSS, Sonnet, COMSOL
   * Bash, Git, and GitHub
   * Interfacing with HPC (Slurm, Ray, MPI)
 </details>
